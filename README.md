@@ -3,12 +3,25 @@ Angular Starter
 
 Starting point for building angular js app.
 
-Install grunt and dependencies.
+
+Getting started
+---------------
+Install grunt and dependencies
 ```
 npm install
 ```
 
-To build the cielnt
+To build the client
 ```
 grunt build
+```
+
+Watch for changes
+```
+grunt watch
+```
+
+Build release versions of js and css
+```
+grunt release
 ```
